@@ -1,0 +1,22 @@
+name: spatial-regression
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - pandas
+  - numpy
+  - geopandas
+  - libpysal
+  - spreg
+  - esda
+  - splot
+  - matplotlib
+  - scikit-learn
+  - contextily
+  - scipy
+  - shapely
+  - pyproj
+  - jupyter
+  - ipykernel
+  - watermark
